@@ -59,7 +59,7 @@ header > p {
     padding-right: 10px; /*Espaço Interno do Elemento */
     padding-left: 10px; /*Espaço Interno do Elemento */
     margin: auto; /*Espaço externo do elemento */
-    padding-bottom: 20px; /*Espaço Interno do elemento */
+    padding-bottom: 50px; /*Espaço Interno do elemento */
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.589); /*Sombra do texto */
     
 }
